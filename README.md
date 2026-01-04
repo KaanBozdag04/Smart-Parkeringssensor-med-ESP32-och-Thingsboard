@@ -1,0 +1,1 @@
+# Smart-Parkeringssensor-med-ESP32-och-Thingsboard
